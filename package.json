@@ -1,0 +1,19 @@
+{
+  "name": "firebase_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thexande/firebase_test.git"
+  },
+  "author": "Alexander Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thexande/firebase_test/issues"
+  },
+  "homepage": "https://github.com/thexande/firebase_test#readme"
+}
